@@ -1,0 +1,30 @@
+bureaux = {
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ID_BUREAU": 1, "DENOM_BURE": "Hôtel de Ville" }, "geometry": { "type": "Point", "coordinates": [ 3.524186018442894, 50.357781296186467 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 2, "DENOM_BURE": "Ecole Plaine de Mons Salle A" }, "geometry": { "type": "Point", "coordinates": [ 3.534395145259615, 50.360833340081349 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 3, "DENOM_BURE": "Ecole Plaine de Mons Salle B" }, "geometry": { "type": "Point", "coordinates": [ 3.53449970379673, 50.360186770567083 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 4, "DENOM_BURE": "Ecole Mathieu de Quenvignies" }, "geometry": { "type": "Point", "coordinates": [ 3.528301672902851, 50.358963660623765 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 5, "DENOM_BURE": "Ecole Jean Bonmarche Salle A" }, "geometry": { "type": "Point", "coordinates": [ 3.524755864310791, 50.351791879655593 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 6, "DENOM_BURE": "Ecole Jean Bonmarche Salle B" }, "geometry": { "type": "Point", "coordinates": [ 3.525019610687356, 50.351448692130887 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 7, "DENOM_BURE": "Ecole Cariot Salle A" }, "geometry": { "type": "Point", "coordinates": [ 3.519669984356376, 50.360324288987208 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 8, "DENOM_BURE": "Ecole Cariot Salle B" }, "geometry": { "type": "Point", "coordinates": [ 3.520292434354778, 50.360189830608761 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 9, "DENOM_BURE": "Ecole maternelle Acacias" }, "geometry": { "type": "Point", "coordinates": [ 3.508977219385893, 50.359703605611372 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 10, "DENOM_BURE": "Ecole Anna Foucart" }, "geometry": { "type": "Point", "coordinates": [ 3.514296071987191, 50.368698251033692 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 11, "DENOM_BURE": "Ecole Françoise Badar Salle A" }, "geometry": { "type": "Point", "coordinates": [ 3.519978793507037, 50.357473242345463 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 12, "DENOM_BURE": "Ecole Françoise Badar Salle B" }, "geometry": { "type": "Point", "coordinates": [ 3.520431425292421, 50.357257545310397 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 13, "DENOM_BURE": "Ecole élémentaire Acacias Niveau 2" }, "geometry": { "type": "Point", "coordinates": [ 3.508735025391418, 50.359126286357956 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 14, "DENOM_BURE": "Ecole élémentaire Acacias Niveau 1" }, "geometry": { "type": "Point", "coordinates": [ 3.50853524743036, 50.358646085116483 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 15, "DENOM_BURE": "Ecole Georges Huisman" }, "geometry": { "type": "Point", "coordinates": [ 3.524341841335878, 50.351344217853075 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 16, "DENOM_BURE": "Espace L. Duvant - Salle Polyvalente" }, "geometry": { "type": "Point", "coordinates": [ 3.513908663765546, 50.351268862146675 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 17, "DENOM_BURE": "Maison du citoyen" }, "geometry": { "type": "Point", "coordinates": [ 3.488389901034326, 50.352814535328342 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 18, "DENOM_BURE": "Ecole Antoine St-Exupery" }, "geometry": { "type": "Point", "coordinates": [ 3.517796133371922, 50.342977810984863 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 19, "DENOM_BURE": "Groupe scolaire Jean Mineur Salle A" }, "geometry": { "type": "Point", "coordinates": [ 3.487969710572741, 50.364765540353893 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 20, "DENOM_BURE": "Groupe scolaire Jean Mineur Salle B" }, "geometry": { "type": "Point", "coordinates": [ 3.48891375037545, 50.364462503747411 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 21, "DENOM_BURE": "Ecole Siméon Cuveillier Salle A" }, "geometry": { "type": "Point", "coordinates": [ 3.494904202138533, 50.356522391259006 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 22, "DENOM_BURE": "Ecole Siméon Cuveillier Salle B" }, "geometry": { "type": "Point", "coordinates": [ 3.494864429508487, 50.357010702409106 ] } },
+{ "type": "Feature", "properties": { "ID_BUREAU": 23, "DENOM_BURE": "Ecole Emile Zola" }, "geometry": { "type": "Point", "coordinates": [ 3.482513852387772, 50.359954039939133 ] } }
+]
+}
